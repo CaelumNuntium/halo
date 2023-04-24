@@ -34,7 +34,6 @@ int main()
 			if(!isnan(h))
 			{
 				fprintf(fp, "%lf %lf\n", a / PI * 180, h / PI * 180);
-				//printf("%lf\n", norm(s3));
 			}
 		}
 	}
