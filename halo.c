@@ -2,6 +2,7 @@
 #include <stdlib.h>
 #include <math.h>
 #include "refraction.h"
+#include "vector.h"
 
 const double PI = 3.141592653589793;
 
